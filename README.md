@@ -1,1 +1,2 @@
-# tictactoe_basics
+## tictactoe_basics
+Basic logic. Design practice
